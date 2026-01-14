@@ -1,6 +1,6 @@
 # easy dict JP to EN
 
-This is a JP to EN dictionary chrome extension made for educational purpose to learn Japanese for Engilsh speakers. This provides more explaination of the word to learn compared to just simply clicking translate button of chrome.
+This is a JP to EN dictionary chrome extension made for educational purpose to learn Japanese for Engilsh speakers. This provides more explaination of the word to learn compared to just simply clicking translate button of chrome. You can use this like normal translation feature of chrome, with just simple clicks.
 
 # Why use this tool
 
