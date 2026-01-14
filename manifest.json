@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "Translate Plus",
+  "version": "0.1",
+  "description": "Right-click selected Japanese text to search on Jisho in side panel!",
+  "permissions": ["contextMenus", "sidePanel", "activeTab"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "side_panel": {
+    "default_path": "sidepanel.html"
+  },
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}
